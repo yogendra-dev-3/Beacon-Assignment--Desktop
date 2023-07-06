@@ -1,0 +1,23 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+
+  background-color: #16066b;
+  margin: 20px;
+  width: 100vw;
+  height: 300px;
+  margin-bottom: 30px;
+}
+
+.text {
+  color: white;
+  margin-left: 30px;
+  font-family: 'Roboto';
+  width: 300px;
+  align-self: center;
+}
+
+.profile-image {
+  height: 300px;
+  margin-left: 150px;
+}

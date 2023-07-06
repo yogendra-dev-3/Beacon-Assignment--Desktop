@@ -1,0 +1,53 @@
+.profiles-container {
+  background-image: url('https://res.cloudinary.com/dblkpyaej/image/upload/v1687628827/OIP_2_qad2ni.jpg');
+  width: 100vw;
+  height: 500px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  height: 300px;
+  width: 80vw;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.profile-img {
+  height: 250px;
+}
+
+.profile-content {
+  width: 650px;
+  font-family: 'Roboto';
+  color: grey;
+  font-size: 20px;
+}
+
+.profile-slider {
+  display: flex;
+  flex-direction: column;
+}
+
+.slider-con {
+  background-color: transparent;
+  width: 400px;
+  height: 100px;
+  align-self: center;
+  color: orange;
+  list-style: none;
+}
+
+.heading-2 {
+  align-self: center;
+  color: #fc6f03;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 45px;
+}

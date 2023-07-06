@@ -1,0 +1,40 @@
+.tab-1 {
+  height: 15px;
+  background-color: #f58b4e;
+  width: 250px;
+  cursor: pointer;
+}
+
+.tab-2 {
+  height: 15px;
+  background-color: #f06d22;
+  width: 250px;
+  cursor: pointer;
+}
+
+.tab-3 {
+  height: 15px;
+  background-color: #e85907;
+  width: 250px;
+  cursor: pointer;
+}
+
+.tab-4 {
+  height: 15px;
+  background-color: #b3551e;
+  width: 250px;
+  cursor: pointer;
+}
+
+.tab-5 {
+  height: 15px;
+  background-color: #803205;
+  width: 250px;
+  cursor: pointer;
+}
+
+.active-blog-tab {
+  height: 15px;
+  background-color: white;
+  width: 250px;
+}

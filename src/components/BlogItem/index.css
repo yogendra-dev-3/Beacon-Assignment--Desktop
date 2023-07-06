@@ -1,0 +1,70 @@
+.blog-item {
+  width: 90vw;
+  height: 400px;
+  margin: 30px;
+  margin-left: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.blog-content {
+  height: 400px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.blog-image {
+  height: 400px;
+  margin-top: 10px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.blog-heading-1 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 50px;
+  color: #02099c;
+}
+
+.blog-heading-5 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 50px;
+  color: Yellow;
+}
+
+.blog-heading-2 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 50px;
+  color: red;
+}
+
+.blog-heading-3 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 50px;
+  color: green;
+}
+
+.blog-heading-4 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 50px;
+  color: pink;
+}
+
+.blog-text {
+  font-family: 'Roboto';
+
+  font-size: 20px;
+  color: grey;
+}

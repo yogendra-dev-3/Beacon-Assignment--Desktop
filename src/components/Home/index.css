@@ -1,0 +1,36 @@
+.home-container {
+  height: 400px;
+  background-color: grey;
+}
+
+.bg-container {
+  background-image: url('https://res.cloudinary.com/dblkpyaej/image/upload/v1687628827/OIP_2_qad2ni.jpg');
+  background-size: cover;
+  width: 100vw;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  opacity: 1;
+  color: #fc6f03;
+  font-size: 45px;
+}
+
+.buttons-container {
+  width: 500px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.book-demo {
+  background-color: #fc6f03;
+  color: white;
+  height: 60px;
+  padding: 10px;
+}

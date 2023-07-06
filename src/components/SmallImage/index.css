@@ -1,0 +1,9 @@
+.small-image {
+  height: 100px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.active-small-image {
+  height: 100px;
+}

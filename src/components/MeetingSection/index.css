@@ -1,0 +1,59 @@
+.meeting-container {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 530px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.meeting-image {
+  height: 450px;
+  margin-left: 20px;
+}
+
+.meeting-content-container {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  padding-left: 30px;
+}
+
+.meeting-head {
+  color: #16066b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.meeting-content {
+  color: grey;
+  font-family: 'Roboto';
+
+  font-size: 20px;
+}
+
+.small-images-container {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-between;
+  width: 500px;
+  margin-top: 40px;
+}
+
+.meeting-button {
+  color: #fc6f03;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 30px;
+  border: none;
+  background-color: transparent;
+}
+
+.meeting-arrow {
+  color: #fc6f03;
+  height: 20px;
+  width: 30px;
+}
